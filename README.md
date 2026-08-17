@@ -4,7 +4,7 @@
 
 <!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Akash%20S%20Ari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20✦%20Building%20End-to-End%20GenAI%20%26%20Data%20Systems&descAlignY=58&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Akash%20S%20Ari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20End-to-End%20GenAI%20%26%20Data%20Systems&descAlignY=58&animation=twinkling" />
 </p>
 
 <!-- ANIMATED TYPING -->

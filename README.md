@@ -4,12 +4,12 @@
 
 <!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Akash%20S%20Ari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20End-to-End%20GenAI%20%26%20Data%20Systems&descAlignY=58&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Intern%20at%20NoBrokerHood%20✦%20Building%20Production%20AI%20Systems&descAlignY=58&animation=twinkling" />
 </p>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&lines=RAG+Pipelines+%E2%86%92+LLM+Agents+%E2%86%92+Real+Products;Python+%E2%9C%A6+LangChain+%E2%9C%A6+Streamlit+%E2%9C%A6+Gemini+%E2%9C%A6+FastAPI;From+Data+Cleaning+%E2%86%92+Modeling+%E2%86%92+Deployment;Fresher%2C+But+Always+Shipping+Real+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&lines=Automating+Google+Meet+%E2%86%92+Transcripts+%E2%86%92+AI+Insights;FastAPI+%E2%9C%A6+LangChain+%E2%9C%A6+Docker+%E2%9C%A6+Gemini+%E2%9C%A6+Groq;From+Idea+%E2%86%92+Prototype+%E2%86%92+Production;Always+Learning%2C+Always+Shipping+Impact" />
 </p>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->

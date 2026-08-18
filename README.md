@@ -117,7 +117,6 @@ Multi-PDF chat app with context-aware retrieval — chunked document text, store
 
 **Stack:** Python · FAISS · Streamlit · PyPDF2 · Google Generative AI
 
-🔗 **Repo:** https://github.com/PSriSaiYagnik/Chat-With-PDF
 
 ---
 
@@ -126,7 +125,6 @@ Vision-based resume analyzer offering 4 evaluation modes — recruiter-style rev
 
 **Stack:** Python · Streamlit · Google Gemini (Vision) · pdf2image · PIL
 
-🔗 **Repo:** *coming soon*
 
 ---
 
@@ -135,7 +133,6 @@ End-to-end ML pipeline predicting hourly bike-sharing demand using weather, seas
 
 **Stack:** Python · Pandas · Scikit-learn · Streamlit
 
-🔗 **Repo:** *coming soon*
 
 ---
 
@@ -144,7 +141,6 @@ Interactive Power BI dashboard tracking sales, profit, and quantity across regio
 
 **Stack:** Power BI
 
-🔗 **Repo:** *coming soon*
 
 ---
 

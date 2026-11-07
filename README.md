@@ -112,45 +112,61 @@
 
 ## 🔥 Featured Projects
 
-### 📄 Document Intelligence Agent
-Multi-PDF chat app with context-aware retrieval — chunked document text, stored embeddings in a FAISS vector store, and answered queries via a conversational QA pipeline built on Google Generative AI.
+### 📄 Document Intelligence Agent: Chat with Multiple PDFs (RAG)
+Retrieval-Augmented Generation (RAG) app that lets users upload multiple PDFs and ask natural-language questions across all of them. Document text is chunked, embedded, and indexed in a FAISS vector database for semantic search, and a conversational QA pipeline on Google Generative AI produces answers grounded in the retrieved context.
 
-**Stack:** Python · FAISS · Streamlit · PyPDF2 · Google Generative AI
-
+**Stack:** Python · FAISS · Streamlit · PyPDF2 · Google Generative AI · NLP
 
 ---
 
-### 🎯 ResumeSense — Multi-Perspective ATS Analyzer
-Vision-based resume analyzer offering 4 evaluation modes — recruiter-style review, skill-gap coaching, missing-keyword detection, and weighted JD-match scoring — using Gemini's vision model to avoid text-extraction parsing errors.
+### 🎯 ResumeSense: Multi-Perspective ATS Analyzer
+Resume analysis tool with four evaluation modes: recruiter-style review, skill-gap coaching, missing-keyword detection, and weighted job-description match scoring. It sends resumes to Gemini's vision model as images, which avoids text-extraction parsing errors, and uses mode-specific prompt templates for realistic, non-inflated scores.
 
-**Stack:** Python · Streamlit · Google Gemini (Vision) · pdf2image · PIL
+**Stack:** Python · Streamlit · Google Gemini (Vision) · pdf2image · PIL · Prompt Engineering
 
+---
+
+### 📉 Customer Churn Prediction System
+End-to-end ML system on 7,043 telecom customers. Compares Logistic Regression, Random Forest, and XGBoost (ROC-AUC up to 0.86), handles class imbalance, tunes the decision threshold for precision-recall trade-offs, and uses SHAP to explain churn drivers. Deployed as a Streamlit app that returns real-time churn probability.
+
+**Stack:** Python · Scikit-learn · XGBoost · SHAP · Pandas · Streamlit
 
 ---
 
 ### 🚲 Bike Rental Demand Prediction
-End-to-end ML pipeline predicting hourly bike-sharing demand using weather, seasonality, and holiday features. Trained and tuned Decision Tree, Random Forest, and Gradient Boosting models; deployed via Streamlit for real-time forecasting.
+End-to-end regression pipeline that forecasts hourly bike-sharing demand from weather, seasonality, and holiday features. Includes EDA and feature engineering (hour, season, holiday flags), then compares tuned Decision Tree, Random Forest, and Gradient Boosting models on RMSE and R² (best: [model], R² = [value]). Deployed as a Streamlit app for real-time forecasting.
 
 **Stack:** Python · Pandas · Scikit-learn · Streamlit
-
 
 ---
 
 ### 📊 Sales Dashboard with 15-Day Forecasting
-Interactive Power BI dashboard tracking sales, profit, and quantity across regions and product categories, with built-in 15-day time-series forecasting for inventory planning.
+Interactive Power BI dashboard tracking sales, profit, and quantity by region and product category, with built-in 15-day time-series forecasting to support inventory planning.
 
-**Stack:** Power BI
+**Stack:** Power BI · Time-Series Forecasting · DAX
 
+
+---
+
+## 💼 Internships
+
+- **Data Science Internship**: AI Varient
+- **AI DevOps Engineer Internship**: Rooman Technologies
+- **Web Development Internship**: Pentagon Space
+- **UI/UX Design Internship**: Compsoft
 
 ---
 
 ## 🏆 Certifications
 
-- **Python for Data Science** — NPTEL
-- **Masters Programme in Data Science** — NASSCOM
-- **Database Management Systems** — Infosys Springboard
-- **Data Analytics Job Simulation** — Forage (Accenture / Deloitte)
-
+- **Python for Data Science**: NPTEL
+- **Master's Programme in Data Science**: NASSCOM
+- **Gen AI Powered Data Analytics Job Simulation**: TATA (Forage)
+- **Data Analytics Job Simulation**: Deloitte (Forage)
+- **Data Analytics Job Simulation**: Accenture (Forage)
+- **Job Simulation**: JP Morgan Chase (Forage)
+- **Database Management Systems (DBMS)**: Infosys Springboard
+- **Java Fundamentals**: Infosys Springboard
 ---
 
 ## 🌐 Connect With Me
